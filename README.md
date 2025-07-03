@@ -2,9 +2,6 @@
 
 Um downloader de vídeos do YouTube com uma interface gráfica moderna, construído em Python com PySide6 e yt-dlp.
 
-![Screenshot do Programa](URL_DA_SUA_IMAGEM_AQUI)
-_Você pode tirar um print da sua aplicação e subir em um site como o [Imgur](https://imgur.com/upload) para gerar a URL da imagem._
-
 ## Funcionalidades
 
 - Interface gráfica responsiva que não congela durante as operações.
