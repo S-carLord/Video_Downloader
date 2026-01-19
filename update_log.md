@@ -178,3 +178,4 @@ Atualizado em Thu Jan 15 01:14:08 UTC 2026
 Atualizado em Fri Jan 16 01:16:18 UTC 2026
 Atualizado em Sat Jan 17 01:12:48 UTC 2026
 Atualizado em Sun Jan 18 01:21:26 UTC 2026
+Atualizado em Mon Jan 19 01:20:11 UTC 2026
